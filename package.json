@@ -1,0 +1,20 @@
+{
+  "name": "tool-n64",
+  "version": "1.00001.0",
+  "description": "N64 ROM tools from libdragon",
+  "keywords": [
+    "toolchain",
+    "build tools",
+    "mips",
+	"n64"
+  ],
+  "homepage": "https://libdragon.dev/",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DragonMinded/libdragon.git"
+  },
+  "system": [
+    "windows_amd64"
+  ]
+}
